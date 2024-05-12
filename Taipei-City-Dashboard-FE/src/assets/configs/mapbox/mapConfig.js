@@ -279,6 +279,36 @@ export const maplayerCommonPaint = {
 	"line-dash": {
 		"line-dasharray": [2, 4],
 	},
+
+	linestring: {
+		"line-width": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			10.99,
+			1,
+			12,
+			1,
+			18,
+			3,
+		],
+	},
+	"line-wide": {
+		"line-width": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			10.99,
+			0,
+			12,
+			1.5,
+			18,
+			4,
+		],
+	},
+	"line-dash": {
+		"line-dasharray": [2, 4],
+	},
 	symbol: {},
 };
 
@@ -309,6 +339,34 @@ export const maplayerCommonLayout = {
 	},
 	"symbol-metro": {
 		"icon-image": "metro",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-book": {
+		"icon-image": "book",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-heart": {
+		"icon-image": "heart",
 		"icon-size": [
 			"interpolate",
 			["linear"],

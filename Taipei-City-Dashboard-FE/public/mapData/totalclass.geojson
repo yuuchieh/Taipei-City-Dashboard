@@ -1,0 +1,2878 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.588949,25.06929 ]
+    },
+    "properties": {
+    "開課月份":1,
+    "辦理單位":"內湖區公所",
+    "課程種類（名稱）":"新春親子手作班",
+    "開課時間":"1月24日、1月31日（三）\n 09:00-12:00",
+    "開課地點":"內湖區公所8樓大禮堂\n 內湖區民權東路6段99號8樓",
+    "聯絡電話":"02-27925828#208",
+    "招生對象":"新住民",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227421,25.0935395 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\n Adult Basic Education(Basic Mandarin) Programmes:\n \n 普通班- 初級\n General Class- Advanced\n  \n 新住民班- 初級\n New Immigrant Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.2.24 ~ 2024.4.27\n週六及週日\nEvery weekend\n09:00am ~ 04:25pm",
+    "開課地點":"士林國中\n Taipei Municipal Shilin\n Junior School",
+    "聯絡電話":"8861-3411#700",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\n All the local citizens or new immigrants aged 19 and above who want to learn basic Mandarin",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.616085,25.0689881 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic\n \n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.2.22 ~ 2024.5.20\n每週一、四\nEvery Monday & Thursday\n07:00pm ~ 09:00pm",
+    "開課地點":"東湖國小\nTaipei Municipal Donghu\nElementary School",
+    "聯絡電話":"2633-9984#186",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5617705,25.084116 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.2.26 ~ 2024.6.24\n每週一\nEvery Monday\n02:00pm ~ 05:00pm",
+    "開課地點":"文湖國小\nTaipei Municipal Wenhu\nElementary School",
+    "聯絡電話":"2658-3515#1021",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5002187,25.1342685 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n 星期三 Wednesday\n 星期五 Friday",
+    "開課地點":"北投國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nBeitou Elementary School",
+    "聯絡電話":"2891-2052#117、215",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n生活 Life Curriculum",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"士東國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShidong Elementary School",
+    "聯絡電話":"2871-0064#213",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5019084,25.0909499 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n星期二 Tuesday\n星期四 Thursday",
+    "開課地點":"社子國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nShezi Elementary School",
+    "聯絡電話":"2812-9059#812",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5110848,25.061297 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"永樂國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nYongle Elementary School",
+    "聯絡電話":"2553-4882#204",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5168631,25.0734158 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"大龍國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nDalong Elementary School",
+    "聯絡電話":"2594-2635#814",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5371051,25.0486787 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"中山國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nZhongshan Elementary School",
+    "聯絡電話":"2591-4085#8012",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5225411,25.0233079 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n生活 Life Curriculum",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"河堤國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nHeti Elementary School",
+    "聯絡電話":"2367-7144#818",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4981343,25.0308536 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"雙園國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShuangyuan Elementary School",
+    "聯絡電話":"2306-1893#141",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5026351,25.0374164 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n 星期三 Wednesday\n 星期五 Friday",
+    "開課地點":"老松國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nLaosong Elementary School",
+    "聯絡電話":"2336-1266#113",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"建安國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nJianan Elementary School",
+    "聯絡電話":"2707-7119#803",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n書法 Chinese Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"木柵國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nMuzha Elementary School",
+    "聯絡電話":"2939-1234#633",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5776844,25.0427529 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"雙永國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShuangyong Elementary School",
+    "聯絡電話":"8785-8111#1830",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5683186,25.0255934 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"吳興國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nWuxing Elementary School",
+    "聯絡電話":"2720-0226#60",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"西松國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nXisong Elementary School",
+    "聯絡電話":"2760-9221#600",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6107725,25.0576651 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n書法 Chinese Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"南港國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nNangang Elementary School",
+    "聯絡電話":"2783-4678#2102",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5805088,25.0796114 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n英語 English\n資訊 Information Technology\n硬筆字 Hard Pen Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"內湖國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nNeihu Elementary School",
+    "聯絡電話":"2797-0237#1116",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515018,25.1151759 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"北投國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nBeitou Junior High School",
+    "聯絡電話":"2891-2091#600",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227421,25.0935395 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"士林國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nShilin Junior High School",
+    "聯絡電話":"8861-3411#710",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5138725,25.0636883 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"民權國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nMinquan Junior High School",
+    "聯絡電話":"2593-1951#151",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5415678,25.0777783 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"北安國中附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nBeian Junior High School",
+    "聯絡電話":"2533-3888#280",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"弘道國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nHongdao Junior High School",
+    "聯絡電話":"2371-5520#190",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4989765,25.0285877 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"萬華國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nWanhua Junior High School",
+    "聯絡電話":"2339-4567#185",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5477558,25.0306323 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"大安國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nDaan Junior High School",
+    "聯絡電話":"2755-7131#108",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5711331,24.99168 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"木柵國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nMuzha Junior High School",
+    "聯絡電話":"2939-3031#700",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5722586,25.035644 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"興雅國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nXingya Junior High School",
+    "聯絡電話":"2723-2771#170",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4675424,25.0183945 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"中山國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nZhongshan Junior High School",
+    "聯絡電話":"2712-6701#961",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6111949,25.0312347 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"南港高中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nNangang Senior High School",
+    "聯絡電話":"2783-7863#287",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5886895,25.077035 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"內湖國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nNeihu Junior High School",
+    "聯絡電話":"2790-0843#369",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "開課月份":2,
+    "辦理單位":"社會局-臺北市西區新住民社區關懷據點",
+    "課程種類（名稱）":"生命故事團體",
+    "開課時間":"2月24日、3月2日、9日、16日、23日、30日（星期六），下午2時至4時30分，共6次課程",
+    "開課地點":"臺北市西區新住民社區關懷據點（臺北市中正區延平南路207號4樓）",
+    "聯絡電話":"2361-6577",
+    "招生對象":"中正、萬華、大同區新住民優先",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.505032,25.119493 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.5 ~ 2024.5.24\n每週二、四 \nEvery Tuesday & Thursday\n06:30pm ~ 08:30pm\n",
+    "開課地點":"立農國小\nTaipei Municipal Linong\nElementary School",
+    "聯絡電話":"2821-0702#502",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074579,25.0839019 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 高級\nGeneral Class- Advanced\n \n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.3.11 ~ 2024.5.9\n每週一、四\nEvery Monday & Thursday\n06:20pm ~ 09:00pm",
+    "開課地點":"葫蘆國小\nTaipei Municipal Hulu\nElementary School",
+    "聯絡電話":"2812-9586#812",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5464127,25.0805261 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic\n \n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.4 ~ 2024.6.24\n每週一、三\nEvery Monday & Wednesday\n06:50pm ~ 09:00pm",
+    "開課地點":"大直國小\nTaipei Municipal Dazhi\nElementary School",
+    "聯絡電話":"2533-3953#13",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5108887,25.0303757 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic\n \n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.4 ~ 2024.5.21\n每週一、二\nEvery Monday & Tuesday\n02:00pm ~ 04:00pm",
+    "開課地點":"國語實小\nTaipei Municipal Mandarin\nExperimental Elementary School",
+    "聯絡電話":"2303-3555#301",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5367507,25.004898 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 高級\nGeneral Class- Advanced",
+    "開課時間":"第1期(the first term):\n2024.3.4 ~ 2024.5.23\n每週一、四\nEvery Monday & Thursday\n01:00pm ~ 04:00pm",
+    "開課地點":"萬福國小\nTaipei Municipal Wanfu\nElementary School",
+    "聯絡電話":"2935-3123#112",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5588319,25.0292438 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.4 ~ 2024.5.27\n每週一、五\nEvery Monday & Friday\n04:00pm ~ 06:00pm",
+    "開課地點":"三興國小\nTaipei Municipal Sanxing\nElementary School",
+    "聯絡電話":"2736-4687#113",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56108,25.0624 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.11 ~ 2024.5.28\n每週一、二\nEvery Monday & Tuesday\n06:30pm ~ 09:30pm",
+    "開課地點":"民權國小\nTaipei Municipal Minquan\nElementary School",
+    "聯絡電話":"2765-2327#662",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.621002,25.039524 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.3.11 ~ 2024.5.13\n每週一至四\nFrom Monday to Thursday\n01:20pm ~ 03:50pm",
+    "開課地點":"舊莊國小\nTaipei Municipal Jiuzhuang\nElementary School",
+    "聯絡電話":"2782-1418#112",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5949113,25.0800888 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.3.4 ~ 2024.4.26\n每週一、三、五\nEvery Monday, Wednesday & Friday\n07:00pm ~ 09:30pm",
+    "開課地點":"康寧國小\nTaipei Municipal Kangning\nElementary School",
+    "聯絡電話":"2790-1237#123",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0480535,24.904092 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n普通班- 高級\nGeneral Class- Advanced",
+    "開課時間":"第1期(the first term):\n2024.3.5 ~ 2024.5.28\n每週二、五\nEvery Tuesday & Friday\n09:00am ~ 11:00am",
+    "開課地點":"新湖國小\nTaipei Municipal Xinhu\nElementary School",
+    "聯絡電話":"2796-3721#211",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.592445,25.083599 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.3.5 ~ 2024.5.22\n每週二、三\nEvery Tuesday & Wednesday\n06:30pm ~ 09:30pm",
+    "開課地點":"碧湖國小\nTaipei Municipal Bihu\nElementary School",
+    "聯絡電話":"2790-7161#124",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"3月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"\"醫\"起關\"新\"你我的健康-婦女節慶活動",
+    "開課時間":"3月16日（星期六），下午1時30分至4時30分",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"臺北市新住民及社區一般民眾\n預計25人",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"心領\"譯\"會-多語通譯人員培力工作坊",
+    "開課時間":"3月30日（星期六）及3月31日（星期日），上午9時20分至下午5時40分，共2天/1梯次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"具中文聽說讀寫能力，且精通母語之新住民或新住民子女30名",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"「從關係中看自己」成長增能團體",
+    "開課時間":"3月23日、3月30日、4月13日（星期六），上午10時至12時30分、下午1時30分至4時，共計6次課程",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"現有或曾有關係（伴侶、親子、家庭成員、人際關係）議題者，且有意願認識自我之新住民，經社工評估合適者，以設籍或實際居住在本市內湖、松山、南港區之新住民為優先，預計招生8人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"學齡前親子活動",
+    "開課時間":"3月9日、6月1日、9月7日（星期六），時間未訂，共計3次活動",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"本市新住民及滿2歲至6歲學齡前親子，以設籍或實際居住本市內湖、松山、南港區家庭為優先\n預計每場招生5組親子",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"志願服務推廣計畫-文化小講堂",
+    "開課時間":"3月16日、6月29日（星期六），時間安排規劃中，共計2次課程",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"設籍或實際居住於本市之社區民眾\n預計每場招生10人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"文化講師教練協力圈",
+    "開課時間":"預計3月2日、3月9日、3月16日、6月1日（暫定）、4月13日、10月26日、11月16日，下午2時至5時，共7次課程",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"設籍或實際居住於臺北，以據點服務區域之婚姻移民，並有意願擔任文化講師與文化教練之婚姻移民家長為優先，預計招募8至12名參與",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"「新」心相印-家長自我照顧團體",
+    "開課時間":"預計3月6日下午2時至5時、5月11日、18日、25日及9月7日，下午1時至30時至5時，共5次課程",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"設籍或實際居住於臺北市南區之中高齡婚姻移民優先參與，預計招生至少8至10名家長，若有名額將開放本市以外之婚姻移民參與",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【探索臺灣新視界】\n婦女節活動~心願瓶創作暨性騷宣導",
+    "開課時間":"3月9日（星期六），上午9時30分至中午12時30分",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【探索臺灣新視界】\n臺灣文化體驗~北投",
+    "開課時間":"3月23日（星期六），上午9時至下午4時",
+    "開課地點":"臺北市北區新住民社區關懷據點、北投圖書館、中心新村",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5018928,25.1275861 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【展珍新‧愛公益服務】「印」象深刻~印尼沙嗲製作與印尼文化分享",
+    "開課時間":"3月30日（星期六），上午9時至中午12時",
+    "開課地點":"北投區清江里辦公室（臺北市北投區清江路201號）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區社區民眾優先，預計20人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"社會局-臺北市西區新住民社區關懷據點",
+    "課程種類（名稱）":"婦女培力手作班",
+    "開課時間":"3月2日、3月9日、4月13日、4月20日、5月4日、5月11日、6月1日、6月15日、7月6日、7月13日（星期六），上午9時至中午12時，共計10次課程",
+    "開課地點":"臺北市西區新住民社區關懷據點（臺北市中正區延平南路207號4樓）",
+    "聯絡電話":"2361-6577",
+    "招生對象":"中正、萬華、大同區新住民優先",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5166631,25.0231616 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"大安區公所",
+    "課程種類（名稱）":"新住民生活成長營暨香氛手做專長培力班",
+    "開課時間":"3月26日-5月28日（二）\n 13:00-16:00\n 6月1日（六）\n 09:00-13:00",
+    "開課地點":"大安區古莊里里民活動中心、古莊公園",
+    "聯絡電話":"02-23511711#8903",
+    "招生對象":"新住民",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5537941,25.0495918 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"松山區公所",
+    "課程種類（名稱）":"美甲班",
+    "開課時間":"3-4月",
+    "開課地點":"私立育達高級中等學校",
+    "聯絡電話":"02-87878787#735",
+    "招生對象":"新住民",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5720055,25.0409201 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"信義區公所",
+    "課程種類（名稱）":"新住民居家收納整理班",
+    "開課時間":"3月13日-5月8日",
+    "開課地點":"信義區行政中心13樓",
+    "聯絡電話":"02-27239777#604",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5166631,25.0231616 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"大安區公所",
+    "課程種類（名稱）":"烘焙專長培力班",
+    "開課時間":"3月26日-5月28日（二）、5月13日（一）\n 09:00-12:00\n 6月1日（六）\n 09:00-13:00",
+    "開課地點":"大安區古莊里里民活動中心、古莊公園",
+    "聯絡電話":"02-23511711#8903",
+    "招生對象":"新住民",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5254509,25.090478 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"印尼語研習班",
+    "開課時間":"3月13日",
+    "開課地點":"士林新住民會館",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5143695,25.043643 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"中正區公所",
+    "課程種類（名稱）":"導覽人員培訓班",
+    "開課時間":"3月16日-5月11日（六）\n 09:00-12:00、13:00-16:00",
+    "開課地點":"國立臺灣博物館古生物館3樓簡報室（中正區襄陽路25號）",
+    "聯絡電話":"02-23416721#317",
+    "招生對象":"新住民",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50174,25.0406679 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"大同區公所",
+    "課程種類（名稱）":"時尚拼布手作班",
+    "開課時間":"3月20日-4月17日（三）\n 09:00-16:00",
+    "開課地點":"萬華新住民會館3樓",
+    "聯絡電話":"02-25975323#805",
+    "招生對象":"新住民",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50174,25.0406679 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"萬華區公所",
+    "課程種類（名稱）":"肌力訓練班",
+    "開課時間":"3月",
+    "開課地點":"萬華新住民會館",
+    "聯絡電話":"02-23064468#204",
+    "招生對象":"新住民",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.569808,24.989748 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"文山區公所",
+    "課程種類（名稱）":"電腦應用課程",
+    "開課時間":"3月18日-4月25日",
+    "開課地點":"文山行政中心10樓電腦教室",
+    "聯絡電話":"02-29365522#359",
+    "招生對象":"新住民",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6079597,25.0537317 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"南港區公所",
+    "課程種類（名稱）":"布置網美的植物陽台",
+    "開課時間":"3-4月",
+    "開課地點":"南港區民活動中心",
+    "聯絡電話":"02-27831343#852",
+    "招生對象":"新住民",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5924129,25.082749 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"內湖區公所",
+    "課程種類（名稱）":"丙級中式麵食加工-酥(油)皮、糕(漿)皮類證照班",
+    "開課時間":"3月12日-4月2日（二）、4月23日、4月30日\n 09:00-12:00、13:00-16:00",
+    "開課地點":"樂廚烹飪教室\n 內湖區成功路4段62號2樓",
+    "聯絡電話":"02-27925828#208",
+    "招生對象":"新住民",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5246077,25.0950492 ]
+    },
+    "properties": {
+    "開課月份":3,
+    "辦理單位":"士林區公所",
+    "課程種類（名稱）":"盆栽園藝療癒課程",
+    "開課時間":"3月12日-4月11日\n （二）、（四）\n 13:30-16:30",
+    "開課地點":"士林區義信備用禮堂",
+    "聯絡電話":"02-28826200#6501",
+    "招生對象":"新住民",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5249268,25.0933199 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.4.10 ~ 2024.5.31\n週三至週五\nFrom Wednesday to Friday\n01:20pm ~ 03:40pm",
+    "開課地點":"士林國小\nTaipei Municipal Shilin\nElementary School",
+    "聯絡電話":"2881-2231#243",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227421,25.0935395 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Advanced\n \n新住民班- 初級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第1期(the first term):\n2024.2.24 ~ 2024.4.27\n週六及週日\nEvery weekend\n09:00am ~ 04:25pm",
+    "開課地點":"士林國中\n Taipei Municipal Shilin\n Junior School",
+    "聯絡電話":"8861-3411#700",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第1期(the first term):\n2024.4.1 ~ 2024.5.31\n每週一、二、四\nEvery Monday, Tuesday & Thursday\n06:00pm ~ 09:00pm",
+    "開課地點":"吉林國小\nTaipei Municipal Jilin\nElementary School",
+    "聯絡電話":"2521-9196#832",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"4月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"姊妹聊心室-新住民支持團體（來臺7至15年新住民生命歷程經驗彙整）",
+    "開課時間":"4月13日（星期六）至6月1日（星期六），上午10時至12時30分，共8次團體",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"來臺7至15年之新住民婦女\n（詳細報名資格請見活動簡章）",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"暢遊新世界-新住民親子桌遊團體",
+    "開課時間":"4月27日（星期六）至6月29（星期六），下午2時至5時，共11次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"105年至112年桌遊團體舊生為主，另新招收部分新住民家長及其就讀國小六年級以上之子女，以中心服務之個案家庭優先參與，預計招收6對親子，至少12人參與",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"\"新\"靈手巧-新住民手工藝班",
+    "開課時間":"4月16日至6月18日（星期二），上午10時至12時30分，共10次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"臺北市至少16位新住民及社區民眾",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"文化烹飪社團",
+    "開課時間":"4月20日、5月18日、6月15日、7月6日及27日、8月17日（星期六），下午2時至5時，共計6次課程",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"設籍或實際居住於本市之新住民與其家庭成員，以內湖、松山、南港區之成員優先參加\n預計招生10人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"新住民法律權益講座",
+    "開課時間":"4月27日、5月25日（星期六），下午2時至5時，共計2次課程",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"設籍或居住於本市之新住民及其家庭成員、社會大眾，以東區新住民家庭優先參加\n預計每場招生15人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"【新藝樂體驗】-社區互動宣導方案",
+    "開課時間":"預計4月至11月，辦理5場次活動",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"對多元文化有興趣之社區民眾或依合作網絡單位邀請成員",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【展珍新．愛公益培訓】\n移民在地通",
+    "開課時間":"4月18日、5月16日、6月13日、7月11日（星期四），上午9時30分至中午12時30分，共計4次課程",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計8人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"社會局-臺北市西區新住民社區關懷據點",
+    "課程種類（名稱）":"「銀髮新生活」年長新住民團體",
+    "開課時間":"預計4月26日、5月24日、6月28日、7月26日、8月30日、9月27日（星期五），下午2時至4時，共計6次課程",
+    "開課地點":"臺北市西區新住民社區關懷據點（臺北市中正區延平南路207號4樓）",
+    "聯絡電話":"2361-6577",
+    "招生對象":"中正、萬華、大同區60歲以上年長新住民優先",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5537941,25.0495918 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"松山區公所",
+    "課程種類（名稱）":"烘培班",
+    "開課時間":"4-6月",
+    "開課地點":"私立育達高級中等學校",
+    "聯絡電話":"02-87878787#735",
+    "招生對象":"新住民",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6084585,25.0702297 ]
+    },
+    "properties": {
+    "開課月份":4,
+    "辦理單位":"內湖區公所",
+    "課程種類（名稱）":"義式咖啡拉花培訓班",
+    "開課時間":"4月13日、4月20日（六）\n 09:30-12:30",
+    "開課地點":"理範全球時尚技藝學院\n 內湖區民權東路6段296巷103號",
+    "聯絡電話":"02-27925828#208",
+    "招生對象":"新住民",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227421,25.0935395 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\n Adult Basic Education(Basic Mandarin) Programmes:\n \n 普通班- 初級\n General Class- Advanced\n  \n 新住民班- 初級\n New Immigrant Class- Intermediate",
+    "開課時間":"第2期(the second term):\n2024.5.4 ~ 2024.7.6\n週六及週日\nEvery weekend\n09:00am ~ 04:25pm",
+    "開課地點":"士林國中\n Taipei Municipal Shilin\n Junior School",
+    "聯絡電話":"8861-3411#700",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\n All the local citizens or new immigrants aged 19 and above who want to learn basic Mandarin",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"5月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"以\"文\"會友-多元文化社區宣導（多元文化講師培力課程）",
+    "開課時間":"預計5月至7月辦理，共3次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"對於擔任多元文化講師有興趣之新住民，預計招收10位",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"\"騎\"時好愛你-母親節歡慶活動",
+    "開課時間":"5月11日（星期六），下午1時30分至5時",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"新住民家庭及一般民眾家庭親子成員，預計25人",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"親子冒險體驗",
+    "開課時間":"5月4日（星期六），1個整日，共計1次活動",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"設籍或實際居住在本市之新住民及其家人，以內湖、松山、南港區成員優先參加，預計招生38人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【探索臺灣新視界】母親節活動~孕釀流動畫",
+    "開課時間":"5月11日（星期六），下午2時至5時",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【移居臺灣必修課】\n青草保健生活家",
+    "開課時間":"5月3日、10日、17日及24日（星期五），下午1時30分至4時30分，共計4次課程",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"共築瑜快的珈\n親子共好小時光~親子瑜珈",
+    "開課時間":"5月4日、6月1日（星期六），下午2時至3時30分，共計2次課程",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計12人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"社會局-臺北市西區新住民社區關懷據點",
+    "課程種類（名稱）":"母親節親子手作活動",
+    "開課時間":"預計5月18日（星期六），下午1時30分至4時30分",
+    "開課地點":"臺北市西區新住民社區關懷據點（臺北市中正區延平南路207號4樓）",
+    "聯絡電話":"2361-6577",
+    "招生對象":"1.中正、萬華、大同區新住民優先\n2.一般民眾",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.569808,24.989748 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"文山區公所",
+    "課程種類（名稱）":"韓國語言及文化研習班",
+    "開課時間":"5月2日-6月6日",
+    "開課地點":"文山行政中心7樓會議室",
+    "聯絡電話":"02-29365522#359",
+    "招生對象":"新住民",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5254509,25.090478 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"士林區公所",
+    "課程種類（名稱）":"日本語言及文化研習班",
+    "開課時間":"5月14日-6月13日\n （二）、（四）\n 13:30-16:30",
+    "開課地點":"士林新住民會館",
+    "聯絡電話":"02-28826200#6501",
+    "招生對象":"新住民",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515018,25.1151759 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"北投區公所",
+    "課程種類（名稱）":"閩南語研習課程",
+    "開課時間":"5月1日-31日",
+    "開課地點":"北投區行政中心6樓",
+    "聯絡電話":"02-28912105#276",
+    "招生對象":"新住民",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50174,25.0406679 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"萬華區公所",
+    "課程種類（名稱）":"眉眼彩繪藝術班",
+    "開課時間":"5月",
+    "開課地點":"萬華新住民會館",
+    "聯絡電話":"02-23064468#204",
+    "招生對象":"新住民",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6079597,25.0537317 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"南港區公所",
+    "課程種類（名稱）":"中國旗袍舞蹈班",
+    "開課時間":"5-6月",
+    "開課地點":"南港區民活動中心",
+    "聯絡電話":"02-27831343#852",
+    "招生對象":"新住民",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5899986,25.0818679 ]
+    },
+    "properties": {
+    "開課月份":5,
+    "辦理單位":"內湖區公所",
+    "課程種類（名稱）":"歐式花藝班",
+    "開課時間":"5月17日、5月24日（五）\n 09:00-12:00",
+    "開課地點":"湖濱區民活動中心\n 內湖區內湖路2段346號",
+    "聯絡電話":"02-27925828#208",
+    "招生對象":"新住民",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5428276,25.0534411 ]
+    },
+    "properties": {
+    "開課月份":6,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【展珍新‧愛公益服務】「越」法情緣~法國麵包與越南文化分享",
+    "開課時間":"6月14日（星期五），下午2時至5時",
+    "開課地點":"復華長青多元服務中心（臺北市中山區遼寧街185巷11號）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區社區民眾優先，預計20人",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":6,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【探索臺灣新視界】\n文化交流真趣味~義大利Scopa牌卡體驗",
+    "開課時間":"6月15日（星期六），上午9時30分至中午12時30分",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "開課月份":6,
+    "辦理單位":"社會局-臺北市西區新住民社區關懷據點",
+    "課程種類（名稱）":"「小手拉大手」親子志工培力",
+    "開課時間":"預計6月22日、7月20日、8月10日、9月7日、10月5日、11月9日（星期六），上午10時至下午4時，共計6次課程",
+    "開課地點":"臺北市西區新住民社區關懷據點（臺北市中正區延平南路207號4樓）",
+    "聯絡電話":"2361-6577",
+    "招生對象":"中正、萬華、大同區新住民及其子女優先",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5046844,25.1344332 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic",
+    "開課時間":"第1期(the first term):\n 2024.7.1 ~ 2024.7.31\n 週一至週五\n From Monday to Friday\n 08:30am ~ 11:45am\n \n ",
+    "開課地點":"北投國中\nTaipei Municipal Beitou \nJunior High School",
+    "聯絡電話":"2891-2091#601",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"7月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"新住民學齡前親子系列講座",
+    "開課時間":"7月4日（星期四）、7月18日（星期四）、8月8日（星期四），上午10時至中午12時，共計3場次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"設籍或實際居住在臺北市的新住民親子；一般家庭親子（幼童年齡須為滿2歲至6歲兒童）\n每場20位親子",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"心曠神\"瑜\"~正念陰瑜珈-輕熟齡新住民支持團體",
+    "開課時間":"7月6日至8月24日（星期六），上午9時30分至12時30分，共8次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"臺北市40歲以上輕熟齡新住民，部分名額提供給社區民眾，預計至少招收10位成員",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"文化探險家-兒童營隊",
+    "開課時間":"預計7月2日（星期二）至7月5日（星期五），共4天營隊",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"優先開放設籍或居住本服務區域（大安區、文山區、信義區）之婚姻移民家庭小學升二年級至六年級畢業子女，至少招生10至12名",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5323988,25.1114866 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【展珍新‧愛公益服務】「泰」繽紛~泰式彩虹湯圓與泰國文化分享",
+    "開課時間":"7月17日（星期三），上午9時30分至中午12時30分",
+    "開課地點":"士林老人服務暨日間照顧中心（臺北市士林區忠誠路2段53巷7號6樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區社區民眾優先，預計20人",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5069829,25.028344 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中正區公所",
+    "課程種類（名稱）":"新住民生活成長營暨多元文化研習班",
+    "開課時間":"第一梯:7月10日-10月29日\n 第二梯:9月3日-10月29日",
+    "開課地點":"中正區中華路二段315巷14號2樓",
+    "聯絡電話":"02-23416721#317",
+    "招生對象":"新住民",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5821689,25.037814 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"信義區公所",
+    "課程種類（名稱）":"新住民美術創作班",
+    "開課時間":"7月17日-10月2日",
+    "開課地點":"台北市信義區行政中心大樓13樓",
+    "聯絡電話":"02-27239777#604",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5335776,25.0642771 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"無國界香藥草生活保養品班",
+    "開課時間":"7月1日-7月11日",
+    "開課地點":"中山區行政中心10樓、中山老人住宅",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5335776,25.0642771 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"花樣中山造型香精實習班",
+    "開課時間":"7月12日",
+    "開課地點":"中山區行政中心10樓",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5335776,25.0642771 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"創意小物巧思皮革手作班",
+    "開課時間":"7月15日-7月23日",
+    "開課地點":"中山區行政中心10樓",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5335776,25.0642771 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"繽紛亮麗點點名皮革染色班",
+    "開課時間":"7月26日",
+    "開課地點":"中山區行政中心10樓",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5335776,25.0642771 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"中山區公所",
+    "課程種類（名稱）":"中山最酷新潮復古設計班",
+    "開課時間":"7月31日",
+    "開課地點":"中山區行政中心10樓",
+    "聯絡電話":"02-25031369#591",
+    "招生對象":"新住民",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515018,25.1151759 ]
+    },
+    "properties": {
+    "開課月份":7,
+    "辦理單位":"北投區公所",
+    "課程種類（名稱）":"化妝品體驗班",
+    "開課時間":"7月1日-31日",
+    "開課地點":"北投區行政中心6樓",
+    "聯絡電話":"02-28912105#276",
+    "招生對象":"新住民",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":8,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"8月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5046844,25.1344332 ]
+    },
+    "properties": {
+    "開課月份":8,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic",
+    "開課時間":"第2期(the second term):\n2023.8.1 ~ 2023.8.31\n週一至週五\nMonday to Friday\n08:30am ~ 12:00am",
+    "開課地點":"北投國中\nTaipei Municipal Beitou \nJunior High School",
+    "聯絡電話":"2891-2091#601",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933785,25.0580027 ]
+    },
+    "properties": {
+    "開課月份":8,
+    "辦理單位":"社會局-臺北市東區新住民社區關懷據點",
+    "課程種類（名稱）":"舞蹈社團",
+    "開課時間":"預計8月至10月辦理，下午3時至4時30分時段，共8次課程",
+    "開課地點":"臺北市東區新住民社區關懷據點\n（臺北市南港區向陽路252號1樓）",
+    "聯絡電話":"2631-7059",
+    "招生對象":"設籍或居住於臺北市之新住民，以內湖、松山、南港區成員優先參加，預計招生10人",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":8,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"「新」心知我心，共創「新」關係-家長互助社團",
+    "開課時間":"預計8月31日、9月14日、9月28日（均為星期六），下午2時至5時，共3次課程",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"設籍或實際居住於臺北市南區之婚姻移民為優先\n預計每場招募6至10名擔任家庭主要照顧者之新住民，若有名額將開放本市以外之婚姻移民",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50174,25.0406679 ]
+    },
+    "properties": {
+    "開課月份":8,
+    "辦理單位":"大同區公所",
+    "課程種類（名稱）":"聽歌謠快樂學台語",
+    "開課時間":"8月21日-9月20日（三）、（五）\n 13:30-16:30",
+    "開課地點":"萬華新住民會館3樓",
+    "聯絡電話":"02-25975323#805",
+    "招生對象":"新住民",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.505032,25.119493 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.10 ~ 2024.12.5\n每週二、四\nEvery Tuesday & Thursday\n06:30pm ~ 08:30pm",
+    "開課地點":"立農國小\nTaipei Municipal Linong\nElementary School",
+    "聯絡電話":"2821-0702#502",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5249268,25.0933199 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.4 ~ 2024.10.30\n週三至週五\nFrom Wednesday to Friday\n01:20pm ~ 03:40pm",
+    "開課地點":"士林國小\nTaipei Municipal Shilin\nElementary School",
+    "聯絡電話":"2881-2231#243",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074579,25.0839019 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 高級\nGeneral Class- Advanced\n \n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第2期(the second term):\n2024.9.23 ~ 2024.11.14\n每週一、四\nEvery Monday & Thursday\n06:20pm ~ 09:00pm",
+    "開課地點":"葫蘆國小\nTaipei Municipal Hulu\nElementary School",
+    "聯絡電話":"2812-9586#812",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5464127,25.0805261 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic\n \n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.9 ~ 2024.12.25\n每週一、三\nEvery Monday & Wednesday\n06:50pm ~ 09:00pm",
+    "開課地點":"大直國小\nTaipei Municipal Dazhi\nElementary School",
+    "聯絡電話":"2533-3953#13",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5108887,25.0303757 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 初級\nGeneral Class- Basic\n \n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.16 ~ 2024.12.9\n每週一、二\nEvery Monday & Tuesday\n02:00pm ~ 04:00pm",
+    "開課地點":"國語實小\nTaipei Municipal Mandarin\nExperimental Elementary School",
+    "聯絡電話":"2303-3555#301",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5367507,25.004898 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 高級\nGeneral Class- Advanced",
+    "開課時間":"第2期(the second term):\n2024.9.2 ~ 2024.11.25\n每週一、四\nEvery Monday & Thursday\n01:00pm ~ 04:00pm",
+    "開課地點":"萬福國小\nTaipei Municipal Wanfu\nElementary School",
+    "聯絡電話":"2935-3123#112",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56108,25.0624 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.23 ~ 2024.12.3\n每週一、二\nEvery Monday & Tuesday\n06:30pm ~ 09:30pm",
+    "開課地點":"民權國小\nTaipei Municipal Minquan\nElementary School",
+    "聯絡電話":"2765-2327#662",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.621002,25.039524 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate",
+    "開課時間":"第2期(the second term):\n2024.9.10 ~ 2024.11.14\n每週一至四\nFrom Monday to Thursday\n01:20pm ~ 03:50pm",
+    "開課地點":"舊莊國小\nTaipei Municipal Jiuzhuang\nElementary School",
+    "聯絡電話":"2782-1418#112",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.616085,25.0689881 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic\n \n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第2期(the second term):\n2024.9.12 ~ 2024.12.05\n每週一、四\nEvery Monday & Thursday\n07:00pm ~ 09:00pm",
+    "開課地點":"東湖國小\nTaipei Municipal Donghu\nElementary School",
+    "聯絡電話":"2633-9984#186",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5949113,25.0800888 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 中級\nNew Immigrant Class- Intermediate",
+    "開課時間":"第2期(the second term):\n2024.9.23 ~ 2024.11.15\n每週一、三、五\nEvery Monday, Wednesday & Friday\n07:00pm ~ 09:30pm",
+    "開課地點":"康寧國小\nTaipei Municipal Kangning\nElementary School",
+    "聯絡電話":"2790-1237#123",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0480535,24.904092 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n普通班- 高級\nGeneral Class- Advanced",
+    "開課時間":"第2期(the second term):\n2024.9.10 ~ 2024.12.6\n每週二、五\nEvery Tuesday & Friday\n09:00am ~ 11:00am",
+    "開課地點":"新湖國小\nTaipei Municipal Xinhu\nElementary School",
+    "聯絡電話":"2796-3721#211",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.592445,25.083599 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n普通班- 中級\nGeneral Class- Intermediate\n \n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.10 ~ 2024.11.27\n每週二、三\nEvery Tuesday & Wednesday\n06:30pm ~ 09:30pm",
+    "開課地點":"碧湖國小\nTaipei Municipal Bihu\nElementary School",
+    "聯絡電話":"2790-7161#124",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5617705,25.084116 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.9.9 ~ 2024.12.30\n每週一\nEvery Monday\n02:00pm ~ 05:00pm",
+    "開課地點":"文湖國小\nTaipei Municipal Wenhu\nElementary School",
+    "聯絡電話":"2658-3515#1021",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5002187,25.1342685 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"北投國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nBeitou Elementary School",
+    "聯絡電話":"2891-2052#117、215",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n生活 Life Curriculum",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"士東國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShidong Elementary School",
+    "聯絡電話":"2871-0064#213",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5019084,25.0909499 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n星期二 Tuesday\n星期四 Thursday",
+    "開課地點":"社子國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nShezi Elementary School",
+    "聯絡電話":"2812-9059#812",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5110848,25.061297 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"永樂國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nYongle Elementary School",
+    "聯絡電話":"2553-4882#204",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5168631,25.0734158 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"大龍國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nDalong Elementary School",
+    "聯絡電話":"2594-2635#814",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5371051,25.0486787 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"中山國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nZhongshan Elementary School",
+    "聯絡電話":"2591-4085#8012",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5225411,25.0233079 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n生活 Life Curriculum",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"河堤國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nHeti Elementary School",
+    "聯絡電話":"2367-7144#818",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4981343,25.0308536 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"雙園國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShuangyuan Elementary School",
+    "聯絡電話":"2306-1893#141",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5026351,25.0374164 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"老松國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nLaosong Elementary School",
+    "聯絡電話":"2336-1266#113",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"建安國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nJianan Elementary School",
+    "聯絡電話":"2707-7119#803",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n書法 Chinese Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期四 Thursday",
+    "開課地點":"木柵國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nMuzha Elementary School",
+    "聯絡電話":"2939-1234#633",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5776844,25.0427529 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"雙永國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nShuangyong Elementary School",
+    "聯絡電話":"8785-8111#1830",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5683186,25.0255934 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n數學 Mathematics\n社會 Social Studies",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"吳興國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nWuxing Elementary School",
+    "聯絡電話":"2720-0226#60",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n音樂 Musics",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"西松國小附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nXisong Elementary School",
+    "聯絡電話":"2760-9221#600",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6107725,25.0576651 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n社會 Social Studies\n書法 Chinese Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"南港國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nNangang Elementary School",
+    "聯絡電話":"2783-4678#2102",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5805088,25.0796114 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國語 Mandarin\n英語 English\n資訊 Information Technology\n硬筆字 Hard Pen Calligraphy",
+    "開課時間":"星期一 Monday\n星期三 Wednesday\n星期五 Friday",
+    "開課地點":"內湖國小附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nNeihu Elementary School",
+    "聯絡電話":"2797-0237#1116",
+    "招生對象":"已逾學齡未受基本教育之市民或新住民\nAll the local citizens or new immigrants above school age who have not received primary education",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515018,25.1151759 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"北投國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nBeitou Junior High School",
+    "聯絡電話":"2891-2091#600",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227421,25.0935395 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"士林國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nShilin Junior High School",
+    "聯絡電話":"8861-3411#710",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5138725,25.0636883 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"民權國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nMinquan Junior High School",
+    "聯絡電話":"2593-1951#151",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5415678,25.0777783 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"北安國中附設補校\nThe Affiliated Supplementary\nCompulsory \nSchool of Taipei Municipal\nBeian Junior High School",
+    "聯絡電話":"2533-3888#280",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"弘道國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nHongdao Junior High School",
+    "聯絡電話":"2371-5520#190",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4989765,25.0285877 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"萬華國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nWanhua Junior High School",
+    "聯絡電話":"2339-4567#185",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5477558,25.0306323 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"大安國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool of Taipei Municipal\nDaan Junior High School",
+    "聯絡電話":"2755-7131#108",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5711331,24.99168 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"木柵國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nMuzha Junior High School",
+    "聯絡電話":"2939-3031#700",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5722586,25.035644 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"興雅國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nXingya Junior High School",
+    "聯絡電話":"2723-2771#170",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4675424,25.0183945 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"中山國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nZhongshan Junior High School",
+    "聯絡電話":"2712-6701#961",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6111949,25.0312347 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"南港高中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nNangang Senior High School",
+    "聯絡電話":"2783-7863#287",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5886895,25.077035 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"國中階段部訂課程簡化減量後之學校本位課程\n The School-Based Curriculum Based on Simplified and Reduced MOE-mandated Curricula in Junior High School",
+    "開課時間":"週一至週五\nMonday to Friday",
+    "開課地點":"內湖國中附設補校\nThe Affiliated Supplementary\nCompulsory\nSchool ofTaipei Municipal\nNeihu Junior High School",
+    "聯絡電話":"2790-0843#369",
+    "招生對象":"逾18歲已具國小學歷但未取得國中學歷之市民或新住民\nAll the local citizens or new immigrants over the age of 18 who have received a elementary school certificate, but not a junior high school one",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014283,25.0334732 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"臺北市就業服務處",
+    "課程種類（名稱）":"就業研習班",
+    "開課時間":"9月",
+    "開課地點":"臺北市就業服務處勞工教室",
+    "聯絡電話":"02-2308-5231分機703、712",
+    "招生對象":"新住民",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"出乎\"移\"料-新住民烹飪班",
+    "開課時間":"9月14日至11月23日（星期六），上午9時30分至中午12時30分，共13次課程",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"至少12位新住民及社區民眾",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"舞\"移\"超群-新住民舞蹈團",
+    "開課時間":"9月7日至11月16日（星期六），下午2時至5時（專業課程+自主練習），共計10次課程。另擇期進行公益演出3次（於社區活動、社福單位等進行公益表演）",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"臺北市新住民及本國籍民眾\n新舊成員預計至少10位",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5398003,25.0026625 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"社會局-臺北市南區新住民社區關懷據點",
+    "課程種類（名稱）":"創造新回憶~活力舒壓一日遊",
+    "開課時間":"預計9月至11月，辦理1場次活動",
+    "開課地點":"臺北市南區新住民社區關懷據點\n（臺北市文山區羅斯福路5段211巷23號1樓，近萬隆捷運站3號出口）",
+    "聯絡電話":"2931-2166",
+    "招生對象":"設籍或實際居住於服務轄區內之婚姻移民家庭，以中高齡單親、喪偶之新住民、家有學齡前、低年級孩童的家庭為優先報名，預計招募約35人",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6206319,25.0749424 ]
+    },
+    "properties": {
+    "開課月份":9,
+    "辦理單位":"內湖區公所",
+    "課程種類（名稱）":"綠色心生活-園藝篇",
+    "開課時間":"9月11日-10月16日（三）\n 09:00-12:00、13:00-16:00",
+    "開課地點":"七星生態花園\n 內湖區康樂街191巷16號",
+    "聯絡電話":"02-27925828#208",
+    "招生對象":"新住民",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5654268,25.0329636 ]
+    },
+    "properties": {
+    "開課月份":10,
+    "辦理單位":"臺北市政府教育局\nDepartment of Education, Taipei City Government",
+    "課程種類（名稱）":"成人基本教育研習班：\nAdult Basic Education(Basic Mandarin) Programmes:\n\n新住民班- 初級\nNew Immigrant Class- Basic",
+    "開課時間":"第2期(the second term):\n2024.10.1 ~ 2024.11.29\n每週一、二、四\nEvery Monday, Tuesday & Thursday\n06:00pm ~ 09:00pm",
+    "開課地點":"吉林國小\nTaipei Municipal Jilin\nElementary School",
+    "聯絡電話":"2521-9196#832",
+    "招生對象":"15歲以上有基礎中文學習需求之市民或新住民\nAll the local citizens or new immigrants aged 15 and above who have a need to learn basic Mandarin                              \n",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5103159,25.0539837 ]
+    },
+    "properties": {
+    "開課月份":11,
+    "辦理單位":"社會局-臺北市新住民家庭服務中心",
+    "課程種類（名稱）":"風和\"日\"麗-日本七五三節體驗活動",
+    "開課時間":"11月2日（星期六），下午2時至5時",
+    "開課地點":"臺北市新住民家庭服務中心\n（臺北市大同區迪化街1段21號7樓）",
+    "聯絡電話":"2558-0133",
+    "招生對象":"臺北市新住民家庭及社區民眾，預計25人",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":11,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"【探索臺灣新視界】文化交流真趣味~異國聖誕節",
+    "開課時間":"11月9日（星期六），下午2時至5時",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"以中山、士林、北投區新住民家庭優先，預計15人",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5021827,25.127893 ]
+    },
+    "properties": {
+    "開課月份":11,
+    "辦理單位":"社會局-臺北市北區新住民社區關懷據點",
+    "課程種類（名稱）":"成果發表會-十年有成",
+    "開課時間":"暫定11月16日（星期六），下午2時至4時",
+    "開課地點":"臺北市北區新住民社區關懷據點（臺北市北投區清江路177巷12號1樓）",
+    "聯絡電話":"2504-0399",
+    "招生對象":"政府及民間網絡合作單位、本據點志工及新住民家庭，預計40人",
+    "行政區":"北投區"
+    }
+  }
+]
+}
